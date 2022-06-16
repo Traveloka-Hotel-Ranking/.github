@@ -28,4 +28,4 @@ Our application to recommend hotels that match users' behavior
 # Future Development
 
 # License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.md` 'in License-repo' for more information.
