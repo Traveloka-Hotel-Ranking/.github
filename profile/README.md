@@ -26,6 +26,10 @@ Our application to recommend hotels that match users' behavior
 |  Cloud Computing   | [Github](https://github.com/Traveloka-Hotel-Ranking/Cloud-Computing-API)  |
 
 # Future Development
+- Add features for ranking algorithm model like traveloka's revenue from hotel to increase income
+- Add transaction feature 
+- Add payment methods
+- Create Function and routes for Hotel Transaction
 
 # License
 Distributed under the MIT License. See `LICENSE.md` in `License-repo` for more information.
